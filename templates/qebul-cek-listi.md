@@ -1,4 +1,4 @@
-# Sayt qəbulu — çek-list
+# Sayt qəbulu: çek-list
 
 | | |
 |---|---|
@@ -8,7 +8,7 @@
 | Tarix | |
 
 Qayda: bir bənd «bəli» deyilsə, o bənd təhvildən əvvəl bağlanır. Yoxlanmayan
-bəndin qarşısına «yoxlanmadı» yazılır — boş buraxılmır.
+bəndin qarşısına «yoxlanmadı» yazılır, boş buraxılmır.
 
 ## 1. Domen və sertifikat
 
@@ -31,10 +31,10 @@ bəndin qarşısına «yoxlanmadı» yazılır — boş buraxılmır.
 
 ## 3. Ehtiyat nüsxə
 
-- [ ] Ehtiyat nüsxə avtomatik alınır — tezliyi: ____
+- [ ] Ehtiyat nüsxə avtomatik alınır, tezliyi: ____
 - [ ] Nüsxə saytın özündən başqa yerdə saxlanılır
 - [ ] Neçə gün saxlanıldığı bilinir: ____
-- [ ] Bərpa bir dəfə sınaqdan keçirilib (nüsxə var deyil — nüsxədən sayt qalxdı)
+- [ ] Bərpa bir dəfə sınaqdan keçirilib (nüsxə var deyil, nüsxədən sayt qalxdı)
 - [ ] Bərpa qaydası bir səhifə mətnlə yazılıb
 
 ## 4. Admin paneli
@@ -48,7 +48,7 @@ bəndin qarşısına «yoxlanmadı» yazılır — boş buraxılmır.
 
 ## 5. Sürət
 
-- [ ] PageSpeed Insights mobil nəticəsi yoxlanılıb — bal: ____
+- [ ] PageSpeed Insights mobil nəticəsi yoxlanılıb, bal: ____
 - [ ] Ən ağır səhifə mobil bağlantıda 3 saniyəyə açılır
 - [ ] Şəkillər sıxılıb və müasir formatdadır
 - [ ] Şəkillərin ölçüsü göstərilib (səhifə yüklənərkən məzmun sıçramır)
@@ -101,7 +101,7 @@ Brauzerin developer alətlərində və ya pulsuz onlayn yoxlayıcı ilə baxıl�
 ## 10. Formalar və bildirişlər
 
 - [ ] Hər forma real məlumatla doldurulub göndərilib
-- [ ] Məktub gəldi — spam qovluğuna düşmədi
+- [ ] Məktub gəldi, spam qovluğuna düşmədi
 - [ ] Məktubun gedəcəyi ünvan sifarişçinindir və dəyişdirilə bilir
 - [ ] Göndərəndən sonra istifadəçi aydın təsdiq görür
 - [ ] Səhv doldurulanda anlaşılan xəbərdarlıq çıxır
@@ -119,8 +119,8 @@ Brauzerin developer alətlərində və ya pulsuz onlayn yoxlayıcı ilə baxıl�
 
 ## 12. Sənədləşmə
 
-- [ ] Hansı texnologiya işlədilib — bir səhifə yazılı
-- [ ] Necə yenilənir və deploy edilir — addım-addım
+- [ ] Hansı texnologiya işlədilib, bir səhifə yazılı
+- [ ] Necə yenilənir və deploy edilir, addım-addım
 - [ ] Mühit dəyişənlərinin siyahısı (adlar; dəyərlər ayrıca kanalla)
 - [ ] Üçüncü tərəf servislərin siyahısı, hansı hesabla və nə qədər ödənişlə
 - [ ] Zəmanət müddəti və nəyi əhatə etdiyi yazılıb

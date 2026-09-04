@@ -5,7 +5,7 @@
 # dəyişənin adı və izahı olur; real açar, parol və token buraya yazılmır.
 #
 # İşə başlamaq: cp .env.example .env, sonra boş sətirləri doldur.
-# Yeni dəyişən əlavə edəndə əvvəlcə bura yaz — komanda dəyişəni ancaq bu
+# Yeni dəyişən əlavə edəndə əvvəlcə bura yaz. Komanda dəyişəni ancaq bu
 # faylda görür. Serverdə unudulan bir sətir gecə saat üçdə tapılır.
 # =============================================================================
 
@@ -108,7 +108,7 @@ STRIPE_WEBHOOK_SECRET=
 
 # LLM inteqrasiyası
 OPENAI_API_KEY=
-# Bir sorğunun maksimum token həddi — xərci burada saxlayırsan.
+# Bir sorğunun maksimum token həddi: xərci burada saxlayırsan.
 OPENAI_MAX_TOKENS=2000
 
 # Xəta izləmə. Boş qalsa xətalar yalnız serverin log faylında qalır.

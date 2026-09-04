@@ -13,7 +13,7 @@
 Keçid gecə yarısı deyil, komandanın oyaq olduğu saatda edilir. Cümə axşamı
 səhər yaxşı vaxtdır: problem çıxsa, düzəltməyə iki iş günü qalır.
 
-## 1. İnventar — nə köçür
+## 1. İnventar: nə köçür
 
 Köçürülməyən şey yalnız burada yazılmayan şey olur.
 
@@ -82,7 +82,7 @@ yalnız hosts faylı ilə yoxlanılır.
 - [ ] Cron tapşırıqları işə düşüb
 - [ ] Log-larda 500 xətası yoxdur
 
-Sınaq bitəndən sonra hosts sətri silinir — unudulsa, sonrakı yoxlamaların
+Sınaq bitəndən sonra hosts sətri silinir. Unudulsa, sonrakı yoxlamaların
 hamısı yanlış nəticə verir.
 
 ## 5. Dondurma pəncərəsi
@@ -167,7 +167,7 @@ Qərar hissə görə yox, şərtə görə verilir. Şərt əvvəlcədən yazıl�
 Geri dönüş addımları:
 
 1. DNS qeydi köhnə IP ünvanına qaytarılır (TTL hələ 300-dür, yayılma sürətlidir).
-2. Köhnə serverdə sayt yenə işlək vəziyyətdədir — bu, dondurma qaydasının səbəbidir.
+2. Köhnə serverdə sayt yenə işlək vəziyyətdədir, dondurma qaydasının səbəbi budur.
 3. Keçid müddətində yeni bazaya düşən yazı və sifarişlər siyahı halında saxlanılır.
 4. Səbəb yazılır, plan düzəldilir, yeni tarix təyin edilir.
 

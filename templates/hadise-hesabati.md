@@ -33,7 +33,7 @@ Rəqəmsiz təsir bölməsi «bir az problem oldu» deməkdir.
 | Uğursuz sorğu / sifariş sayı | |
 | İtən və ya təkrar emal edilən məlumat | |
 | Maliyyə təsiri (təxmini) | |
-| Xarici bildiriş verildi? | bəli / xeyr — kim, nə vaxt |
+| Xarici bildiriş verildi? | bəli / xeyr, kim, nə vaxt |
 
 ## 3. Xronologiya
 
@@ -66,7 +66,7 @@ monitorinqdədir.
 ## 5. Kök səbəb
 
 Texniki tetikləyici (hansı dəyişiklik, hansı sorğu, hansı hədd) ayrıca, ona
-yol açan şərait ayrıca yazılır. «Fayl silinib» səbəb deyil — səbəb, o faylın
+yol açan şərait ayrıca yazılır. «Fayl silinib» səbəb deyil. Səbəb, o faylın
 bir adamın əlindən silinə bilməsidir.
 
 Beş «niyə»:
@@ -112,7 +112,7 @@ dəyişməyib.
 
 ## 9. Təkrarlanma riski
 
-- [ ] Eyni səbəb sistemin başqa hissəsində də var — harada:
+- [ ] Eyni səbəb sistemin başqa hissəsində də var, harada:
 - [ ] Bu nasazlığı indi tutacaq bildiriş var
 - [ ] Düzəliş sınaqdan keçirilib (yalnız yazılmayıb)
 - [ ] Bərpa qaydası sənəddə yenilənib

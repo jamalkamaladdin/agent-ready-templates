@@ -3,7 +3,7 @@
 #
 # Node və Next.js layihəsi üçün minimum CI. Dörd addım bir işdə gedir:
 # typecheck, lint, test, build. Ayrı-ayrı işlərə bölmək paralellik verir,
-# amma hər iş asılılıqları yenidən qurur — kiçik layihədə bu, qazancdan çoxdur.
+# amma hər iş asılılıqları yenidən qurur, kiçik layihədə bu qazancdan çoxdur.
 #
 # Paket meneceri npm-dirsə: pnpm/action-setup addımını sil, cache: npm yaz,
 # əmrləri "npm ci" və "npm run ..." ilə əvəz et.

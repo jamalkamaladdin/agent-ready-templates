@@ -51,13 +51,13 @@ bilirsə, nüsxə yoxdur.
 ## 4. Nüsxənin alınması
 
 ~~~bash
-# PostgreSQL — custom format, seçmə bərpaya imkan verir
+# PostgreSQL, custom format: seçmə bərpaya imkan verir
 pg_dump --no-owner --format=custom --file=/tmp/baza-$(date +%F).dump baza
 
 # Faylın oxunaqlı olduğunu yoxla (siyahı verirsə fayl bütövdür)
 pg_restore --list /tmp/baza-$(date +%F).dump > /dev/null && echo "nüsxə oxunur"
 
-# MySQL / MariaDB — cədvəlləri kilidləmədən
+# MySQL / MariaDB, cədvəlləri kilidləmədən
 mysqldump --single-transaction --routines --triggers \
   --default-character-set=utf8mb4 baza | gzip > /tmp/baza-$(date +%F).sql.gz
 ~~~

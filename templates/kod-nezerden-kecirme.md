@@ -26,7 +26,7 @@ Böyükdürsə, bölünməsini xahiş etmək rəyin özündən faydalıdır.
 - [ ] Tarix və vaxt zonası: gecə yarısı, ayın sonu, yay vaxtı
 - [ ] Pul və ölçü hesablamaları yuvarlaqlaşdırma xətası vermir
 - [ ] Eyni əməliyyat iki dəfə gələndə nəticə dəyişmir
-- [ ] Eyni anda iki istifadəçi bunu edəndə nə olur — cavab bilinir
+- [ ] Eyni anda iki istifadəçi bunu edəndə nə olur, cavab bilinir
 
 ## 2. Təhlükəsizlik
 
@@ -44,12 +44,12 @@ Böyükdürsə, bölünməsini xahiş etmək rəyin özündən faydalıdır.
 ## 3. Xəta idarəetməsi
 
 - [ ] Boş `catch` yoxdur: ya loga yazılır, ya yuxarı ötürülür
-- [ ] Xəta mesajı kontekst daşıyır — hansı istifadəçi, hansı əməliyyat, hansı ID
+- [ ] Xəta mesajı kontekst daşıyır: hansı istifadəçi, hansı əməliyyat, hansı ID
 - [ ] İstifadəçiyə göstərilən mətn daxili detal sızdırmır
 - [ ] Xarici servisə hər çağırışda vaxt həddi var
 - [ ] Təkrar cəhd varsa, sonsuz deyil və fasiləsi artır
 - [ ] Yarımçıq qalan əməliyyat məlumatı yarı vəziyyətdə qoymur
-- [ ] Xarici servis cavab vermirsə, sistem nə edir — bu, koddan görünür
+- [ ] Xarici servis cavab vermirsə, sistem nə edir, bu koddan görünür
 
 ## 4. Testlər
 
@@ -92,7 +92,7 @@ Böyükdürsə, bölünməsini xahiş etmək rəyin özündən faydalıdır.
 
 ## Rəyin dili
 
-- Şəxsə yox, koda yazılır: «bu funksiya» — «sən».
+- Şəxsə yox, koda yazılır: «bu funksiya», «sən» yox.
 - Fikir və tələb ayrılır: «Xahiş: …» / «Fikir: …» / «Sual: …».
 - Sual da rəydir. Anlamadığın yer, oxuyan növbəti adamın da anlamayacağı yerdir.
 - Bir bənd üçün iki dəfə yazıb razılığa gəlmirsənsə, söhbətə keçilir.

@@ -10,7 +10,7 @@
 
 ## 1. Məqsəd
 
-Bu iş hansı problemi həll edir? Bir-iki cümlə, biznes dilində — texnologiya adı
+Bu iş hansı problemi həll edir? Bir-iki cümlə, biznes dilində, texnologiya adı
 olmadan. Nümunə: «Sifarişlər telefonla qəbul olunur, gün ərzində 20-30 zəngin
 təxminən üçdə biri qeyd olunmadan itir. Sifarişlər onlayn qəbul edilməli və bir
 siyahıda toplanmalıdır.»
@@ -26,7 +26,7 @@ sözü heç nə demir.
 - Meyar 2
 - Meyar 3
 
-## 3. Əhatə — nə qurulur
+## 3. Əhatə: nə qurulur
 
 Görüləcək işlərin siyahısı. Hər bənd bir təhvil vahididir.
 
@@ -34,7 +34,7 @@ Görüləcək işlərin siyahısı. Hər bənd bir təhvil vahididir.
 - [ ] 
 - [ ] 
 
-## 4. Əhatədən kənar — nə qurulmur
+## 4. Əhatədən kənar: nə qurulmur
 
 Bu bölmə əhatə bölməsindən vacibdir. Burada yazılmayan hər şey sonradan
 «onsuz da nəzərdə tutulurdu» kimi başa düşülür.
@@ -63,8 +63,8 @@ deyil; «Admin sifarişi PDF kimi yükləyə bilir» tələbdir.
 | F-2 | İstifadəçi | | Vacib |
 | F-3 | Admin | | Arzuolunan |
 
-Prioritet: Vacib — bu olmadan iş təhvil verilmir · Arzuolunan — sonrakı
-mərhələyə keçə bilər.
+Prioritet: Vacib (bu olmadan iş təhvil verilmir) · Arzuolunan (sonrakı
+mərhələyə keçə bilər).
 
 ## 7. Qeyri-funksional tələblər
 
@@ -114,7 +114,7 @@ korporativ qaydalar, təsdiq edilmiş texnologiya siyahısı.
 
 Təhvildə nə verilir:
 
-- [ ] Mənbə kodu — hansı repozitoriyada, kimin hesabında
+- [ ] Mənbə kodu: hansı repozitoriyada, kimin hesabında
 - [ ] Domen və hostinq girişləri sifarişçinin adına
 - [ ] Admin paneli və istifadə təlimatı
 - [ ] Konfiqurasiya və mühit dəyişənlərinin siyahısı (dəyərlər ayrıca kanalla)

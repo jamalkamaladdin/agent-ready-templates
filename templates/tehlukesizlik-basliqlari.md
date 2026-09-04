@@ -23,7 +23,7 @@
 # Brauzer bu başlığı bir dəfə görəndən sonra domenə yalnız https ilə gedir.
 # includeSubDomains bütün alt domenlərə şamil olunur: hər birinin işlək
 # sertifikatı olmalıdır, yoxsa onlar açılmır.
-# preload əlavə etməzdən əvvəl iki dəfə düşün — brauzerin siyahısından
+# preload əlavə etməzdən əvvəl iki dəfə düşün: brauzerin siyahısından
 # çıxmaq aylar çəkir və o müddətdə geri dönüş yoxdur.
 add_header Strict-Transport-Security "max-age=63072000; includeSubDomains" always;
 
